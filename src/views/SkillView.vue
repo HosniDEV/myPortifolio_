@@ -1,4 +1,7 @@
 <template>
+  <div class="text-white text-center uppercase text-2xl font-bold mt-4">
+    Some of my skills
+  </div>
   <div
     class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 my-10"
   >
