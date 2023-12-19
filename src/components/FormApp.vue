@@ -73,9 +73,9 @@ export default {
   data() {
     return {
       cancel: false,
-      name: "abdellah",
-      email: "hosni@gmail.com",
-      message: "well done",
+      name: "",
+      email: "",
+      message: "",
       flashMessage: false,
     };
   },
