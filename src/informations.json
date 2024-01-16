@@ -62,6 +62,14 @@
         "link":"https://github.com/HosniDEV/Ladspa-blog",
         "demo":"https://ladspa-bloggg.vercel.app/",
         "image":"tailwind.jpg"
+    },
+    {
+        "id":9,
+        "title":"King OF the forest",
+        "description":"Responsive website using some tricks to show my skills ",
+        "link":"https://github.com/HosniDEV/King-of-the-forest",
+        "demo":"https://king-of-the-forest.vercel.app/",
+        "image":"tailwind.jpg"
     }
 
 ]
